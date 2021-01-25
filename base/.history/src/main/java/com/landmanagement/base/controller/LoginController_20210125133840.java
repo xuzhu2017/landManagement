@@ -1,11 +1,11 @@
 package com.landmanagement.base.controller;
 
-import com.landmanagement.base.result.Result;
+import com.landmanagement.base.result;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.util.HtmlUtils;
 
-import com.landmanagement.base.entity.User;
+import com.landmanagement.base.entity;
 
 import java.util.Objects;
 
